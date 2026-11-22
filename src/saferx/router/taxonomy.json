@@ -1,0 +1,51 @@
+[
+  {
+    "id": "oncology_hematology",
+    "name": "Oncology/Hematology",
+    "chapter_ids": ["II", "III"],
+    "description": "Cancer, marrow suppression, bleeding risk, cytopenia, and immunocompromised disease burden.",
+    "keypoints": ["malignant", "neoplasm", "metastatic", "lymphoma", "leukemia", "myeloma", "anemia", "thrombocytopenia", "coagulopathy"]
+  },
+  {
+    "id": "endocrine_metabolic",
+    "name": "Endocrine/Metabolic",
+    "chapter_ids": ["IV"],
+    "description": "Diabetes, thyroid disease, obesity, electrolyte derangement, and metabolic instability.",
+    "keypoints": ["diabetes", "hyperglycemia", "obesity", "thyroid", "electrolyte", "hyponatremia", "acidosis", "metabolic", "ketoacidosis"]
+  },
+  {
+    "id": "cardiovascular",
+    "name": "Cardiovascular",
+    "chapter_ids": ["IX"],
+    "description": "Coronary disease, heart failure, arrhythmia, vascular disease, anticoagulation, and cardiac procedures.",
+    "keypoints": ["coronary", "myocardial", "heart failure", "atrial fibrillation", "cardiomyopathy", "angina", "hypertension", "valve", "bypass"]
+  },
+  {
+    "id": "respiratory",
+    "name": "Respiratory",
+    "chapter_ids": ["X"],
+    "description": "Respiratory failure, pneumonia, COPD, asthma, aspiration, and ventilatory support problems.",
+    "keypoints": ["respiratory failure", "hypoxia", "pneumonia", "copd", "asthma", "aspiration", "pneumothorax", "ventilat", "oxygen"]
+  },
+  {
+    "id": "gastro_hepatology",
+    "name": "Gastroenterology/Hepatology",
+    "chapter_ids": ["XI"],
+    "description": "Cirrhosis, portal hypertension, pancreatitis, biliary obstruction, bowel disease, and GI bleeding.",
+    "keypoints": ["cirrhosis", "portal hypertension", "pancreat", "cholang", "bile", "gallbladder", "bowel", "intestinal", "hepatic"]
+  },
+  {
+    "id": "musculoskeletal_trauma",
+    "name": "Musculoskeletal/Trauma",
+    "chapter_ids": ["XII", "XIII", "XIX", "XX"],
+    "description": "Fracture, injury, arthroplasty, wound care, poisoning, and external-cause trauma.",
+    "keypoints": ["fracture", "injury", "trauma", "arthro", "spine", "orthopedic", "periprosthetic", "fall", "wound", "poisoning"]
+  },
+  {
+    "id": "obstetrics_perinatal",
+    "name": "Obstetrics/Perinatal",
+    "chapter_ids": ["XV", "XVI", "XVII"],
+    "description": "Pregnancy, delivery, postpartum complications, fetal issues, congenital, and perinatal conditions.",
+    "keypoints": ["pregnancy", "delivery", "labor", "gestation", "postpartum", "fetal", "cesarean", "childbirth", "congenital", "perinatal"]
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "code_weight": 0.7,
+  "keyword_weight": 0.1,
+  "mixed_margin": 0.08,
+  "selection_margin": 0.12,
+  "min_skill_score": 0.12,
+  "secondary_score_floor": 0.15,
+  "activate_top_n": 3,
+  "max_active_skills": 3,
+  "fallback_mode": "uniform"
+}

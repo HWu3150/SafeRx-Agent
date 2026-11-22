@@ -1,0 +1,3 @@
+Summarize the patient record to support broad inpatient medication prediction. The summary should capture active conditions, relevant chronic history, procedures, acuity of care, medication-relevant risks, and prior medication evidence. It should be comprehensive across therapeutic domains rather than specialized to one organ system.
+
+In particular, the summary should preserve information that may affect medication choice, including acute diagnoses, comorbidities, procedures, critical-care status, infection evidence, pain or neurologic needs, renal and metabolic abnormalities, gastrointestinal or nutritional status, VTE or bleeding risk, and medications that may require continuation from prior visits.

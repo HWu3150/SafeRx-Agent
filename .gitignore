@@ -1,0 +1,8 @@
+# patient data is credentialed (PhysioNet DUA) — never commit it
+*.jsonl
+logs/
+results/
+__pycache__/
+*.pyc
+.DS_Store
+.env
